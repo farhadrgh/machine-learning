@@ -1,2 +1,2 @@
 # machine-learning
-Machine learning course coding exercises
+Machine learning coding exercises
